@@ -6,8 +6,9 @@
 - Spring Boot
 - React.JS
 - Node.JS
+- Node.JS
+- Node.JS
 - Linux
-
 > http://www.gogle.com
 
 > http://www.semyung.ac.kr
