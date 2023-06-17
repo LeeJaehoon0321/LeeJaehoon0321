@@ -1,78 +1,23 @@
-# 2020219062 학번의 RESYME 입니다...
+<h1 align="center">Hi 👋, I'm This is Jaehoon Lee, a developer who codes dreams.</h1>
+<h3 align="center">I am workin with the mission of change the world a better than yesterday!</h3>
 
-## 2020219062 학번의 Thech Full Stacks
-- Java
-- Spring Framework
-- Spring Boot
-- React.JS
-- Node.JS
-- Node.JS
-- Node.JS
-- Linux
-> http://www.gogle.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leejaehoon0321&label=Profile%20views&color=0e75b6&style=flat" alt="leejaehoon0321" /> </p>
 
-> http://www.semyung.ac.kr
+- 🔭 I’m currently working on [mbti- test](https://www.gogle.com/)
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-  <h1>2020219062 Home Page</h1>  
-</body>
-</html>
-```
+- 💬 Ask me about **react, vue.js and solidity**
 
-```javascript
-function resolveAfter2Seconds() {
-  return new Promise(resolve => {
-    setTimeout(() => {
-      resolve('resolved');
-    }, 2000);
-  });
-}
+- 📫 How to reach me **Leejaehoon0321@gmail.com**
 
-async function asyncCall() {
-  console.log('calling');
-  const result = await resolveAfter2Seconds();
-  console.log(result);
-  // Expected output: "resolved"
-}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/0321ljh@naver.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0321ljh@naver.com" height="30" width="40" /></a>
+<a href="https://instagram.com/jaehoon__0321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaehoon__0321" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@hooni7182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hooni7182" height="30" width="40" /></a>
+<a href="https://discord.gg/재훈#2757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="재훈#2757" height="30" width="40" /></a>
+</p>
 
-asyncCall();
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-```
-## table 작성1
-| Stacks | Java | React |
-|--------|------|-------|
-| Ict01  | 22   | 33    |
-| Ict02  | 44   | 55    |
-
-
-
-
-## table  작성2
-| Name | Node | Spring Boot |
-|------|------|-------------|
-| AAA  | 66   | 77          |
-| BBB  | 88   | 99          |
-
-
-## Badge
-<img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white" />
-
-# GIT 용어 정리 
-
-## master
->local repository의 branch name 이다.
-
- ## origin/master(main) //협업 할때 씀.
- remote reposiroty의 branch name 이다.
-
- ## origin
- > remote repository  이다.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leejaehoon0321&show_icons=true&locale=en" alt="leejaehoon0321" /></p>
